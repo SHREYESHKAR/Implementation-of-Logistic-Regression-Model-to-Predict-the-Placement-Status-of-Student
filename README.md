@@ -190,18 +190,31 @@ print(new_prediction[0])
 ## Output:
 <img width="787" height="316" alt="image" src="https://github.com/user-attachments/assets/e7f33a2e-ddd1-49ec-bae0-09c4fb284744" />
 
+
+
 <img width="898" height="325" alt="image" src="https://github.com/user-attachments/assets/80424546-fff1-4980-81fe-7838a815e466" />
+
+
 
 <img width="485" height="407" alt="image" src="https://github.com/user-attachments/assets/32ffc8ed-d98f-4ab6-983e-22e843926f10" />
 
 
+
 <img width="850" height="323" alt="image" src="https://github.com/user-attachments/assets/7358a110-796f-415f-b331-730493782dfd" />
+
+
 
 <img width="780" height="312" alt="image" src="https://github.com/user-attachments/assets/04dd8dad-db94-4621-954c-c91971c32e46" />
 
+
+
 <img width="515" height="175" alt="image" src="https://github.com/user-attachments/assets/2856f4df-878b-4f5e-80cf-d6305dea994a" />
 
+
+
 <img width="358" height="127" alt="image" src="https://github.com/user-attachments/assets/8d6be408-2077-4255-ae20-c940eab8bb8b" />
+
+
 
 <img width="831" height="85" alt="image" src="https://github.com/user-attachments/assets/496ee3fc-a261-439f-833b-9fa2d087b33d" />
 
